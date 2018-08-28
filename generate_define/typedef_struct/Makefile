@@ -1,4 +1,4 @@
-#getDefStruct Makefile
+#typedef_struct Makefile
 
 MODULE = td_struct
 OBJS = td_struct.o
